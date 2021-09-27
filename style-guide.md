@@ -1,15 +1,15 @@
-# Front-end Style Guide
+# Guía de estilo de front-end
 
-## Layout
+## Diseño
 
-The designs were created to the following widths:
+Los diseños se crearon con los siguientes anchos:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-## Colors
+## Colores
 
-### Primary
+### Primarios
 
 - Light red (CTA text): hsl(356, 100%, 66%)
 - Very light red (CTA hover background): hsl(355, 100%, 74%)
@@ -22,25 +22,25 @@ The designs were created to the following widths:
 - Very dark grayish blue (body copy): hsl(207, 13%, 34%)
 - Very dark black blue (footer background): hsl(240, 10%, 16%)
 
-### Gradient
+### Gradiente
 
-Background gradient - Intro/CTA mobile nav:
+Background gradiente - Intro/CTA mobile nav:
 
 - Very light red: hsl(13, 100%, 72%)
 - Light red: hsl(353, 100%, 62%)
 
-Background gradient - body:
+Background gradiente - body:
 
 - Very dark gray blue: hsl(237, 17%, 21%)
 - Very dark desaturated blue: hsl(237, 23%, 32%)
 
-## Typography
+## Tipografia
 
-### Body Copy
+### Body texto
 
 - Font size: 16px
 
-### Fonts
+### Fuentes
 
 - Family: [Overpass](https://fonts.google.com/specimen/Overpass?preview.text_type=custom)
 - Weights: 300, 600
